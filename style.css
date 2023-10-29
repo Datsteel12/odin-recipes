@@ -1,8 +1,26 @@
 body{
     background-color: rgb(25, 25, 62);
 }
+/*index page*/
 .heading{
     text-align: center;
     background-color: rgb(200, 200, 200);
     color:black;
+}
+.links{
+    text-align:center;
+}
+.links li{
+    text-align: center;
+    list-style: none;
+}
+
+.links a{
+    font-size:20px;
+    color:white;
+    font-weight:600;
+}
+.main-para{
+    color:white;
+    font-size:20px;
 }
