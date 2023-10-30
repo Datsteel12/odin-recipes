@@ -1,26 +1,42 @@
 body{
-    background-color: rgb(25, 25, 62);
+    background-color: rgb(255, 255, 255);
 }
 /*index page*/
 .heading{
     text-align: center;
-    background-color: rgb(200, 200, 200);
+    background-color: rgb(6, 118, 152);
     color:black;
+    font-size: 50px;
 }
 .links{
     text-align:center;
 }
 .links li{
+    font-size:18px;
     text-align: center;
     list-style: none;
 }
 
 .links a{
     font-size:20px;
-    color:white;
+    color:black;
     font-weight:600;
 }
 .main-para{
-    color:white;
+    text-align: center;
+    color:black;
     font-size:20px;
+}
+/* Pizza page*/
+.subheading{
+    text-align: center;
+    font-size:25px;
+}
+.images{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    width: 500px;
 }
